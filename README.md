@@ -1,2 +1,0 @@
-# stardate
-Stardate
